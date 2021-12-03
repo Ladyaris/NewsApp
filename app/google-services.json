@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900210857908",
+    "project_id": "newsapp-59307",
+    "storage_bucket": "newsapp-59307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900210857908:android:47512c0caea94391fec4e1",
+        "android_client_info": {
+          "package_name": "com.chores.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900210857908-12huma0st29r5ube422ucrac32usamga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXXIKnuaNUVS72Pnz2I1UqHUpgsQOBQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900210857908-12huma0st29r5ube422ucrac32usamga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
